@@ -1,4 +1,4 @@
-# DigitalGossiper v4.0
+# DigitalGossiper 
 
 Advanced Web Reconnaissance & Intelligence Engine  
 
@@ -134,10 +134,10 @@ Returns valid responses including:
 Scan a single target:
 
 ```bash
-python3 digitalgossiper.py example.com
+- python3 digitalgossiper.py example.com
 
 Interactive mode (manual input):
 
-python3 digitalgossiper.py 
+- python3 digitalgossiper.py 
 
 
